@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Trivia de la Salud",
+      "hasCanvas": false,
+      "bodyTextLen": 1071,
+      "bodyTextHash": "487d0ab966ea7fd991b2b4ff58e1990905e0df45250d8410c7e0bb3d3bd29e64",
+      "bodyTextPrefix": "Trivia de la Salud Banco docente ENFERMEDADES CRÓNICAS Trivia de",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Trivia de la Salud",
+      "hasCanvas": false,
+      "bodyTextLen": 1071,
+      "bodyTextHash": "487d0ab966ea7fd991b2b4ff58e1990905e0df45250d8410c7e0bb3d3bd29e64",
+      "bodyTextPrefix": "Trivia de la Salud Banco docente ENFERMEDADES CRÓNICAS Trivia de",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
